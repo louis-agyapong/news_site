@@ -1,3 +1,3 @@
-# Django Project Template
+# New website
 
 Django Web News Site
