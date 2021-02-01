@@ -1,3 +1,3 @@
 # Django Project Template
 
-Django project template
+Django Web News Site
